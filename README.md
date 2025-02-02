@@ -2,11 +2,11 @@
 - Sejam bem vindos ao meu perfil.
 
   
-<picture>
- <source media="(prefers-color-scheme: dark)" src="./download/avatarGithub.png">
- <source media="(prefers-color-scheme: light)" src="./download/avatarGithub.png">
- <img alt="Meu Avatar" src="./download/avatarGithub">
-</picture>
+<!--<picture>
+ <source media="(prefers-color-scheme: dark)" src="alinelima30/avatarGithub.png">
+ <source media="(prefers-color-scheme: light)" src="alinelima30/avatarGithub.png">
+ <img alt="MeuAvatar" src="alinelima30/avatarGithub">
+<!--</picture>-->
 
    
 ## Atualmente estou aprendendo:
